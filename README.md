@@ -2,9 +2,6 @@
 
 Welcome to my personal portfolio website! This is a clean and responsive website created using **HTML5** and **CSS3** to showcase my web development projects and skills.
 
-## 🚀 Live Preview
-
-🔗 [View Live Site]( https://vaishupf.ccbp.tech)
 
 ## 📁 Project Structure
 ```
